@@ -1,4 +1,4 @@
-# ProjetoImersaoAlura
+# Zero: Chatbot focado em games
 Projeto de conclusão da imersão IA 2024 da Alura.
 ***
 
