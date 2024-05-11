@@ -5,11 +5,11 @@ Este repositório possui um chatbot focado na interação sobre o mundo dos jogo
 Projeto criado com o objetivo de implementar o conhecimento aprendido durante as aulas da __Imersão__. 
 
 Instrutores: 
-- [Ana Raquel], Cientista de Dados e professora da FIAP(https://www.linkedin.com/in/ana-raquel-fernandes-cunha-a48a07a0/)
-- [Fabrício Carraro], Program Manager e Autor de IA @ Alura(https://www.linkedin.com/in/fabriciocarraro/)
-- [Luciano Martins], Developer Advocate, Google IA.(https://www.linkedin.com/in/lucianommartins/)
+- [Ana Raquel](https://www.linkedin.com/in/ana-raquel-fernandes-cunha-a48a07a0/), Cientista de Dados e professora da FIAP
+- [Fabrício Carraro](https://www.linkedin.com/in/fabriciocarraro/), Program Manager e Autor de IA @ Alura
+- [Luciano Martins](https://www.linkedin.com/in/lucianommartins/), Developer Advocate, Google IA
 - [Paulo Silveira](https://www.linkedin.com/in/paulosilveira/)
 
 ***
 
-Acesse [aqui] para gerar sua Google API KEY!(https://aistudio.google.com/app/apikey)
+Acesse [aqui](https://aistudio.google.com/app/apikey) para gerar sua Google API KEY!
